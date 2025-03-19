@@ -1,3 +1,5 @@
+package Singleton;
+
 public class Scoala {
     private String numeScoala;
     private int numarClase;
